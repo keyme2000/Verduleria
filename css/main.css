@@ -1,0 +1,75 @@
+.jumbotron{
+	background-color: yellow;
+	color: black;
+	margin-top: 50px;
+}
+
+body{
+	background-color: rgb(0,255,0);
+}
+
+footer{
+	padding: 10px 10px 0px 10px;
+	background-color: yellow;
+	margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+.card-verdura{
+	flex: 1 150px;
+	margin-top: 10px;
+}
+
+.btn-carrito {
+	width: 100%;
+	border-radius: 0px;
+}
+
+.borde-unico{
+	margin-top:10px;
+	border-color: green;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10px;
+}
+
+.oi{
+	margin-right: 10px;
+}
+
+.card-img-top{
+	border-color: black;
+	border-style: solid;
+}
+
+.card-body{
+	background-color: yellow;
+}
+
+.portada{
+	width: 25%;
+	height: 25%;
+	display: block;
+	margin-left: 37%;
+}
+
+.btn-outline-succes {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+	width: 100%;
+	border-radius: 0px;
+	padding: .5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+}
+
+#boton-pregunta{
+ margin-bottom: 10px;
+}
+
+.carousel{
+	width:50%;
+	margin: auto;
+	padding-bottom: 10px;
+}

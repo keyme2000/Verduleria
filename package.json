@@ -1,0 +1,27 @@
+{
+  "name": "coursera",
+  "version": "1.0.0",
+  "description": "Nuestro primer Proyecto de Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://guskpo20@bitbucket.org/guskpo20/coursera.git"
+  },
+  "author": "Gustavo Keymetlian",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/guskpo20/coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "bootstrap-icons": "^1.2.2",
+    "jquery": "^3.5.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
